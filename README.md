@@ -25,10 +25,4 @@ Acredito que bom código é aquele que outros conseguem entender (e eu mesmo dep
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
----
-
-### 📫 Contato
-
-[![LinkedIn](https://www.linkedin.com/in/wesley-garcia-macedo-096ab639a/)
-
 > Aberto para oportunidades e colaborações 🚀
