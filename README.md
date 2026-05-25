@@ -10,7 +10,12 @@ Sobre mim
  Construindo APIs, trabalhando com bancos de dados e explorando a nuvem
  Atualmente aprofundando em **Node.js**, **Laravel** e **AWS**
  Quando não estou codando: games, música, design e academia
-Acredito que bom código é aquele que outros conseguem entender (e eu mesmo depois de 3 meses)
+ Acredito que bom código é aquele que outros conseguem entender (e eu mesmo depois de 3 meses)
+ Apaixonado pelo que faço, mantendo constancia.
+
+🎓 Atualmente no 1º semestre da graduação tecnológica em Engenharia de Software na Universidade La Salle (UniLasalle)
+💻 Experiência profissional nas áreas de suporte técnico, freelancers, atendimento ao cliente e manutenção preventiva de máquinas.
+📍 Rio Grande do Sul
 
 ---
 
