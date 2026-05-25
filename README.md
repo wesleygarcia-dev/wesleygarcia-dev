@@ -29,6 +29,6 @@ Acredito que bom código é aquele que outros conseguem entender (e eu mesmo dep
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wes)
+[![LinkedIn](https://www.linkedin.com/in/wesley-garcia-macedo-096ab639a/)
 
 > Aberto para oportunidades e colaborações 🚀
